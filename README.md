@@ -1,1 +1,2 @@
-# 2026-06-KIT-COC-ST-133
+Title: 5G/6G Network Slicing Optimization for Diverse IoT Applications
+Domain: Network slicing,resource allocation,reinforcement learning
